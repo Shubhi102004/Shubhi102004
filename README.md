@@ -26,20 +26,16 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=unreal" height="60" alt="unrealengine logo"  />
   <img src="https://skillicons.dev/icons?i=unity" height="60" alt="unity logo"  />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
 </div>
 
